@@ -2,8 +2,9 @@
 
 A modern, responsive weather dashboard application that provides real-time weather information using the OpenWeatherMap API.
 
+“This repository does not include the API key. To run this project, clone the repository, create your own API key, and update the code accordingly.”
 
-![Weather Dashboard Demo](https://via.placeholder.com/800x400?text=Weather+Dashboard+Demo)
+[Weather Dashboard Demo](https://weathernowsd.netlify.app/)
 
 ## Features
 
