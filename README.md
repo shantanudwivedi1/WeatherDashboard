@@ -2,6 +2,7 @@
 
 A modern, responsive weather dashboard application that provides real-time weather information using the OpenWeatherMap API.
 
+
 ![Weather Dashboard Demo](https://via.placeholder.com/800x400?text=Weather+Dashboard+Demo)
 
 ## Features
@@ -127,9 +128,7 @@ WeatherDashboard/
 4. Push to the branch: `git push origin feature/AmazingFeature`
 5. Open a pull request
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
